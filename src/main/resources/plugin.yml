@@ -1,0 +1,5 @@
+name: ProjectileManipulation
+version: ${project.version}
+main: me.msrules123.projectilemanipulation.ProjectileManipulation
+api-version: 1.16
+authors: [ Msrules123 ]
