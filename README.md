@@ -1,4 +1,4 @@
-#ProjectileManipulation
+# ProjectileManipulation
 
 Overwrites default egg, arrow, and enderpearl projectiles when players launch them.
 
